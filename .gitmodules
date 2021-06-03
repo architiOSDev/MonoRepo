@@ -1,0 +1,6 @@
+[submodule "newrelic-angular"]
+	path = newrelic-angular
+	url = https://github.com/architiOSDev/newrelic-angular.git
+[submodule "DefferentRepo"]
+	path = DefferentRepo
+	url = https://github.com/architiOSDev/DefferentRepo.git
